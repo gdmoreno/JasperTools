@@ -30,7 +30,7 @@ use strict;
 use warnings;
 use JSON qw(decode_json);
 
-my $host = "http://localhosgt:8080";
+my $host = "http://localhost:8080";
 my $superuserID = "superuser";
 my $superuserPW = "superuser";
 
